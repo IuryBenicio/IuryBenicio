@@ -19,7 +19,7 @@
 </div>
 <br/>
 <div style="display: block">
- To talk with me:
+ Contact me:
 </div>
 <div> 
   <br/>
