@@ -2,12 +2,10 @@
 <br/>
 
 <div>
-<!--   <img height="200em"  alt="Minhas linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryBenicio&layout=donut&theme=dark#gh-dark-mode-only"/> -->
-  <img height="200em"  alt="Meus git stats" src="https://github-readme-stats.vercel.app/api?username=IuryBenicio&show_icons=true&theme=dark#gh-dark-mode-only" />
 </div>
 <br/>
 <div style="display: block">
- There is the languages what i most use:
+ There is the languages that i most use:
 </div>
 <div style="display: inline_block">
 <br/>
