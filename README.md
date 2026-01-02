@@ -1,11 +1,7 @@
 ### Hi!!! I'm Iury Benicio
 <br/>
-
-<div>
-</div>
-<br/>
 <div style="display: block">
- There is the languages that i most use:
+ There is my main languages:
 </div>
 <div style="display: inline_block">
 <br/>
